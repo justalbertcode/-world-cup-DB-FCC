@@ -2,6 +2,31 @@
 
 https://www.freecodecamp.org/learn/relational-database/build-a-world-cup-database-project/build-a-world-cup-database
 
+This is one of the required projects to earn your certification.
+
+For this project, you will:
+
+- Create a **Bash script** to enter information from World Cup games into **PostgreSQL**
+- Query the database for **useful statistics**
+
+## Getting Started
+
+This course runs in a **virtual Linux machine** using **Gitpod**. Follow the steps below to begin:
+
+1. **Create a GitHub account** if you don't have one.
+2. **Click the Start button** below (on the course page).
+3. **Login to Gitpod** with your GitHub account if prompted.
+4. Wait for the **virtual Linux machine** to finish loading.
+5. Launch the **CodeRoad extension** by:
+   - Clicking the ☰ "hamburger" menu at the top left of the VSCode window
+   - Opening the **"View"** menu
+   - Selecting **"Command Palette"**
+   - Running the command: `CodeRoad: Start`
+
+## Completing the Course
+
+Follow the interactive instructions provided by **CodeRoad** to complete the course.
+
 ## Instructions
 Follow the instructions and get all the user stories below to pass to finish the project.
 You start with several files, one of them is games.csv. It contains a comma-separated list of all games of the final three rounds of the World Cup tournament since 2014; the titles are at the top. It includes the year of each game, the round of the game, the winner, their opponent, and the number of goals each team scored. You need to do three things for this project:
